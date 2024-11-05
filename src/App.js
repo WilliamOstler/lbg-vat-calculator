@@ -16,7 +16,10 @@ function App() {
     setGrossPrice(gross_price);
     setVatToPay(gross_price - price);
   };
-
+// IGWFEWQF
+  //QWEFQF
+  //QWEFEWQEF
+  //QWEFWQF3QW
   const handleGrossPriceChange = (price) => {
     const net_price = price / ((vatRate / 100) + 1);
     setNetPrice(net_price);
